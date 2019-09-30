@@ -1,6 +1,6 @@
 {
   "name": "rn-viewpager",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "ViewPager component for react-native, same api on both android and ios.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zbtang/React-Native-ViewPager.git"
+    "url": "git+https://github.com/ccyfly/React-Native-ViewPager.git"
   },
   "keywords": [
     "react-native-component",
@@ -31,6 +31,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zbtang/React-Native-ViewPager/issues"
+  },
+  "dependencies": {
+    "@react-native-community/viewpager": "^1.1.7"
   },
   "homepage": "https://github.com/zbtang/React-Native-ViewPager#readme"
 }
